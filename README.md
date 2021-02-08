@@ -6,9 +6,9 @@
 
 ### Functionality
 
-[ISS Flyover Times] - Displays the ISS flyover times for the user's current location.
-[ISS Current Location] - Displays the current location of the ISS.
-[ISS Compass Location] - Displays the location of the ISS relative to the location of the user.
+- [ISS Flyover Times] - Displays the ISS flyover times for the user's current location.
+- [ISS Current Location] - Displays the current location of the ISS.
+- [ISS Compass Location] - Displays the location of the ISS relative to the location of the user.
 
 ### Testing
 
