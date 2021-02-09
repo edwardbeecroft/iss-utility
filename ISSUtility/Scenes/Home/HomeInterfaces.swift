@@ -35,11 +35,11 @@ enum HomeOption: CaseIterable {
 	var title: String {
 		switch self {
 		case .flyovers:
-			return "Flyover"
+			return "ISS Flyover Times"
 		case .issLocation:
-			return "Where is the ISS?"
+			return "ISS Current Location"
 		case .issCompassDirection:
-			return "Compass Direction to the ISS"
+			return "ISS Relative Compass Direction"
 		}
 	}
 }
